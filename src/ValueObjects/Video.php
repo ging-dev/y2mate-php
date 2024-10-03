@@ -1,6 +1,6 @@
 <?php
 
-namespace Gingdev\Y2mate\Media;
+namespace Gingdev\Y2mate\ValueObjects;
 
 use EventSauce\ObjectHydrator\Constructor;
 

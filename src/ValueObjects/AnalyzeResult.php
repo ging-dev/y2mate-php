@@ -1,10 +1,8 @@
 <?php
 
-namespace Gingdev\Y2mate\Results;
+namespace Gingdev\Y2mate\ValueObjects;
 
 use EventSauce\ObjectHydrator\Constructor;
-use Gingdev\Y2mate\Media\Audio;
-use Gingdev\Y2mate\Media\Video;
 
 class AnalyzeResult
 {
