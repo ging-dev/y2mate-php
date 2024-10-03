@@ -1,5 +1,6 @@
 {
     "name": "gingdev/y2mate",
+    "version": "1.0.0",
     "description": "y2mate client for PHP",
     "type": "library",
     "license": "MIT",
