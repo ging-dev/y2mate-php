@@ -1,0 +1,26 @@
+{
+    "name": "gingdev/y2mate",
+    "description": "y2mate client for PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gingdev\\Y2mate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ging-dev",
+            "email": "thanh1101dev@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/browser-kit": "^7.1",
+        "symfony/http-client": "^7.1",
+        "symfony/mime": "^7.1",
+        "eventsauce/object-hydrator": "^1.5"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.12"
+    }
+}
